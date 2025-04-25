@@ -51,8 +51,8 @@ Easy-to-use `/sara` commands directly from Discord.
 
  
 ```bash
-git  clone  https://github.com/your-username/steam-recommender-bot.git
-cd  steam-recommender-bot
+git clone https://github.com/adrian-slomka/steam-game-recommender.git
+cd steam-game-recommender
 ```
 
   
@@ -62,7 +62,7 @@ cd  steam-recommender-bot
   
 
 ```bash
-pip  install  -r  requirements.txt
+pip install -r requirements.txt
 ```
 
   
@@ -89,7 +89,7 @@ https://github.com/mozilla/geckodriver/releases
 ### 5. Run the Bot
 
 ```bash
-python  main.py
+python main.py
 ```
 
   
